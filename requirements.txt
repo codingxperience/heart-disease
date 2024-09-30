@@ -1,0 +1,19 @@
+# Essential libraries for data manipulation and analysis
+numpy==1.21.0
+pandas==1.3.0
+
+# Libraries for data visualization
+matplotlib==3.4.2
+seaborn==0.11.2
+
+# Scikit-learn for machine learning models and utilities
+scikit-learn==1.0
+
+# XGBoost for gradient boosting
+xgboost==1.5.0
+
+# Kaggle to manage datasets (optional)
+kaggle==1.5.12
+
+
+pip install -r requirements.txt
