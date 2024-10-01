@@ -12,8 +12,5 @@ scikit-learn==1.0
 # XGBoost for gradient boosting
 xgboost==1.5.0
 
-# Kaggle to manage datasets (optional)
-kaggle==1.5.12
-
 
 pip install -r requirements.txt
