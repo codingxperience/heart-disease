@@ -4,7 +4,7 @@
 This project leverages machine learning models to predict the likelihood of heart disease based on patient data. It uses models such as Random Forest, XGBoost, and a Stacking model (Random Forest + XGBoost) to build a highly accurate classifier. Feature selection and hyperparameter tuning are also applied for optimization.
 
 ## Project Files
-- `main_code.ipynb`: Jupyter notebook containing the full workflow:
+- `notebook-heartdisease.ipynb`: Jupyter notebook containing the full workflow:
   - Data loading and preprocessing.
   - Exploratory Data Analysis (EDA).
   - Model training and evaluation.
